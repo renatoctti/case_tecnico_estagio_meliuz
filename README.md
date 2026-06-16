@@ -131,4 +131,4 @@ O arquivo `tracking_results.csv` é criado automaticamente e acumulado a cada an
 
 ## Link da planilha de acompanhamento
 
-> tracking_results.csv — gerado localmente após rodar os 3 datasets.
+> [Meliuz - Acompanhamento de Testes A/B](https://docs.google.com/spreadsheets/d/1b3QabqrZB1wYtq-87CvVsOCPedl8WLy-Q2qj1oS5YGI) — acesso público de leitura
